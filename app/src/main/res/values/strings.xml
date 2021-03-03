@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">FES 1.0</string>
+    <string name="box">box</string>
+    <string name="multimeter">multimeter</string>
+    <string name="pipeline">pipeline</string>
+    <string name="grease">grease</string>
+    <string name="immigration">immigration</string>
+    <string name="stock">stock</string>
+    <string name="statement">statement</string>
+</resources>

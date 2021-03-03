@@ -1,0 +1,2 @@
+rootProject.name = "FES 1.0"
+include ':app'
